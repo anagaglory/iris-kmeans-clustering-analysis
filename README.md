@@ -36,7 +36,7 @@ The Elbow Method suggested that 3 clusters best represent the dataset.
 
 ### Elbow Method
 
-![Elbow Plot](images/elbow_method.png)
+![Elbow Plot](elbow_method.png)
 
 ### Cluster Visualization
 
