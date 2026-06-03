@@ -48,6 +48,8 @@ The Elbow Method suggested that 3 clusters best represent the dataset.
 - Petal measurements provided strong cluster separation.
 - Three distinct clusters were identified.
 
+- 🔗LinkedIn Update: https://www.linkedin.com/posts/glory-anaga_github-anagagloryiris-kmeans-clustering-analysis-share-7467818371741396992-i3vq/?utm_source=share&utm_medium=member_ios&rcm=ACoAAEzcjzYBKYK0E8nWmeqz2AhiJ-Qde3g72iM
+
 ## Author
 
 Glory Anaga
