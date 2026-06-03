@@ -40,7 +40,7 @@ The Elbow Method suggested that 3 clusters best represent the dataset.
 
 ### Cluster Visualization
 
-![Cluster Plot](images/iris_clusters.png)
+![Cluster Plot](iris_clusters.png)
 
 ## Key Findings
 
